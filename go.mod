@@ -12,7 +12,7 @@ require (
 	github.com/miekg/dns v1.1.48
 	github.com/pelletier/go-toml v1.9.4
 	github.com/pires/go-proxyproto v0.6.2
-	github.com/refraction-networking/utls v1.0.0
+	github.com/refraction-networking/utls v1.1.0
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220312154859-af7fbb8e765b
 	github.com/stretchr/testify v1.7.1
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
